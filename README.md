@@ -9,7 +9,7 @@ An interactive dashboard application that visualizes SpaceX launch data, built w
 - **Payload Analysis**: Interactive range slider to filter launches by payload mass (kg)
 - **Correlation Visualization**: Scatter chart showing the correlation between payload mass and launch success
 
-## Project Overview
+## Demo
 
 ![SpaceX Launch Dashboard](imgs/dash_completed.png)
 
